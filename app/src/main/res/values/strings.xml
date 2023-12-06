@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobil_Uygulama1</string>
+    <string name="rbFahrenayt">Fahrenayt!</string>
+    <string name="rbKelvin">Kelvin!</string>
+    <string-array name="DonusturList">
+        <item>ikilik</item>
+        <item>sekizlik</item>
+        <item>onaltılık</item>
+    </string-array>
+    <string-array name="ByteList">
+        <item>Kilo Byte</item>
+        <item>Byte</item>
+        <item>Kibi Byte</item>
+        <item>Bit</item>
+    </string-array>
+</resources>
